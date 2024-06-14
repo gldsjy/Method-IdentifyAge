@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method-IdentifyAge", "Method-IdentifyAge\Method-IdentifyAge.csproj", "{EDC237A8-44B3-40B7-A11F-20082AA011E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC237A8-44B3-40B7-A11F-20082AA011E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC237A8-44B3-40B7-A11F-20082AA011E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC237A8-44B3-40B7-A11F-20082AA011E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC237A8-44B3-40B7-A11F-20082AA011E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E792C03-2C03-4981-B7CF-92D443730BD2}
+	EndGlobalSection
+EndGlobal
